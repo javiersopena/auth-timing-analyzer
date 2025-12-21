@@ -1,1 +1,4 @@
-requests
+Python 3.8+
+requests library
+
+pip install -r requirements.txt
