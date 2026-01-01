@@ -38,9 +38,10 @@ The goal is to **identify timing side channels**, not to perform brute-force or 
 Create a file containing one username per line, for example:
 
 admin
+javier
 test
 guest
-support
+random
 
 
 ### 2. Run the analyzer

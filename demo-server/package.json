@@ -1,0 +1,14 @@
+{
+    "name": "auth-timing-demo-server",
+    "version": "1.0.0",
+    "description": "Intentionally vulnerable login endpoint for timing analysis demos",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "bcrypt": "^5.1.0",
+      "express": "^4.19.2"
+    }
+  }
+  
